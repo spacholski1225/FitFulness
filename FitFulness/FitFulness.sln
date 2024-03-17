@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitfulness-api", "fitfulness-api\fitfulness-api.csproj", "{8A7785F8-A726-4942-AB20-7DFDE7B23F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7785F8-A726-4942-AB20-7DFDE7B23F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7785F8-A726-4942-AB20-7DFDE7B23F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7785F8-A726-4942-AB20-7DFDE7B23F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7785F8-A726-4942-AB20-7DFDE7B23F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA107003-FB12-4283-988D-0C518DC1F5DC}
+	EndGlobalSection
+EndGlobal
