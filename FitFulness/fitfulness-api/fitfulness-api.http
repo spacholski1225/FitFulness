@@ -1,4 +1,4 @@
-@fitfulness_api_HostAddress = http://localhost:5102
+@fitfulness_api_HostAddress = http://localhost:5106
 
 GET {{fitfulness_api_HostAddress}}/weatherforecast/
 Accept: application/json
